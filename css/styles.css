@@ -1,0 +1,21 @@
+body {
+    background-color: #D8D2CB;
+}
+
+h1 {
+    font-family: 'Merienda', cursive;
+    color: #1C658C;
+}
+
+h3 {
+    font-family: 'Merienda', cursive;
+    color: #1C658C;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: #398AB9;
+    width: 50%;
+}

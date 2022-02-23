@@ -19,4 +19,4 @@ You can view the site here
 
 Ozan Gürsucu (ozngrsc)
 
-<img src="images/screenshot.png"  width= 500px>
+<img src="images/screenshot.png"  width= 500px height= 400px>

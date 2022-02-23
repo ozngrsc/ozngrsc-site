@@ -18,3 +18,5 @@ You can view the site here
 ## Author
 
 Ozan Gürsucu (ozngrsc)
+
+<img src="images/github-guitar.png" >

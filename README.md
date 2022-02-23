@@ -19,4 +19,4 @@ You can view the site here
 
 Ozan Gürsucu (ozngrsc)
 
-<img src="images/guitar.png"  height: 100px>
+<img src="images/guitar.png"  height= 100px>
